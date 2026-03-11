@@ -1,0 +1,5 @@
+=== HISTOIRE DE L'INFORMATIAUE ===
+
+## Les precurseurs (1930-1950)
+- Alan Turning : pere de l'informatique theorique
+- Premier ordinateur electronique : ENIAC (1942) 
