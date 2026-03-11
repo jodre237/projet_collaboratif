@@ -7,3 +7,7 @@
 ## L'ere des mainframes (1950-1970)
 - IBM domine le marche
 - Invention des langages de haut niveau (Fortran, COBOL)
+
+## Revolution personnelle (1970-1990)
+- Premier microprocesseur (Intel 4004)
+- Apple et Microsoft emergent
