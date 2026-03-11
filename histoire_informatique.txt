@@ -3,3 +3,7 @@
 ## Les precurseurs (1930-1950)
 - Alan Turning : pere de l'informatique theorique
 - Premier ordinateur electronique : ENIAC (1942) 
+
+## L'ere des mainframes (1950-1970)
+- IBM domine le marche
+- Invention des langages de haut niveau (Fortran, COBOL)
