@@ -2,3 +2,5 @@ HISTOIRE DE L'INFORMATIQUE
 Années 1940 : premiers ordinateurs electroniques
 Années 1950 : developpement des langages assembleurs
 Années 1960 : apparition des systemes d'exploitation
+Années 1970 : creation d'Unix et du langage C
+Années 1980 :Arrivée des ordinateurs personnels
