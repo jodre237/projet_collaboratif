@@ -1,7 +1,15 @@
-==METIERS INFORMATIQUE==
-Developpeur logiciel
-Administrateur reseau
-Ingenieur cybersecuriter
-Ingenieur en genies logiciel
-Ingenieur bigdata. 
 
+===METIERS DE L'INFORMATIQUE ===
+
+##Developpement
+-Developpeur Frontend : interfaces utilisateur
+-Developpeur Backend : serveurs et bases de données
+-Developpeur Backend : serveurs et bases de données git add metiers_informatique.txt git commit -m Ajout métiers du developement
+
+##Infrastructure et sécurité
+-Administrateur systéme : gestion des serveurs
+e--Ingénieur DevOps : automatisation et déploiementsystéme : gestion des serveurs
+e--Ingénieur DevOps : automatisation et déploiement\n
+
+## Data Scientist : analyse et modélisation
+-Data Engineer : pipelines de données
