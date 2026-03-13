@@ -3,3 +3,5 @@
 Developpeur web : creation de sites internet
 Administrateur systeme : gestion des serveurs
 Data Scientist : analyse de données
+chef de projet : coordination des equipes
+test : validation des applications
