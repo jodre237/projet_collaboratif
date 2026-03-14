@@ -1,7 +1,22 @@
  LES METIERS DE L'INFORMATIQUE
-============================
 Developpeur web : creation de sites internet
 Administrateur systeme : gestion des serveurs
 Data Scientist : analyse de données
 chef de projet : coordination des equipes
 test : validation des applications
+
+METIERS DE L'INFORMATIQUE 
+
+##Developpement
+-Developpeur Frontend : interfaces utilisateur
+-Developpeur Backend : serveurs et bases de données
+-Developpeur Backend : serveurs et bases de données git add metiers_informatique.txt git commit -m Ajout métiers du developement
+
+##Infrastructure et sécurité
+-Administrateur systéme : gestion des serveurs
+-Ingénieur DevOps : automatisation et déploiementsystéme : gestion des serveurs
+-Ingénieur DevOps : automatisation et déploiement
+
+## Data Scientist : analyse et modélisation
+-Data Engineer : pipelines de données
+
