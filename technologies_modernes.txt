@@ -1,2 +1,4 @@
  TECHNOLOGIES INFORMATIQUES MODERNES
  Cloud computing: services a la demande
+ Intelligence Artificielle: apprentissage automatique
+ Internet des objets : objets connectés
