@@ -1,6 +1,7 @@
  TECHNOLOGIES INFORMATIQUES MODERNES
- Cloud computing: services a la demande
- Intelligence Artificielle: apprentissage automatique
- Internet des objets : objets connectés
- Blockchain : registres distribués
- cybersécurité : protection des données
+
+ -Cloud computing: services a la demande
+ -Intelligence Artificielle: apprentissage automatique
+ -Internet des objets : objets connectés
+ -Blockchain : registres distribués
+ -cybersécurité : protection des données
